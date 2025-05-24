@@ -71,4 +71,4 @@ chmod +x /home/ubuntu/otomatis.sh
 - lalu isi bagian login dengan username dan password
 - jika sudah muncul halaman penilaian sumatif akhir tahun isi bagian input data siswa sesuai dengan data diri masing-masing dan simpan.
 
-kira kira seperti itu.
+kira kira seperti itu .
